@@ -1,1 +1,2 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+this this my first image uplord to github
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
